@@ -18,8 +18,8 @@ Galaga-like game created using ChatGpt
 Player movement, sound effects, rising difficultie level over time
 ## Installation
 
-$ git clone https://github.com/your-username/your-repo.git
-$ cd your-repo
+$ git clone https://github.com/szymonkwa/GalagaGPT
+$ cd GalagaGPT
 $ pip install -r requirements.txt
 
 **##**Usage
