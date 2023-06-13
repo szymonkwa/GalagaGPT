@@ -22,6 +22,6 @@ $ git clone https://github.com/szymonkwa/GalagaGPT
 $ cd GalagaGPT
 $ pip install -r requirements.txt
 
-**##**Usage
+## Usage
 $ python GPTlaga.py --option value
-
+In case of error, install pygames manualy 
